@@ -29,13 +29,6 @@
 
 ---
 
-## 📊 Lenguajes más usados en mis repositorios  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manrique23&theme=radical" alt="GitHub Streak Stats">
-</p>
-
----
-
 ## 🛠️ Herramientas que uso  
 
 <p align="center">
