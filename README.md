@@ -13,23 +13,29 @@
 ---
 
 ## 💻 Tech Stack  
-🔹 **Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-🔹 **Bases de datos:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-🔹 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-🔹 **Ciberseguridad:** ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)  
+🔹 **Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+🔹 **Bases de datos:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)  
+🔹 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
+🔹 **Ciberseguridad:** ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8000?style=flat&logo=burpsuite&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 Logros y proyectos destacados  
+✅ Desarrollé una API segura y escalable en PHP con autenticación JWT.  
+✅ Implementé un sistema de roles y permisos en una aplicación empresarial.  
+✅ Automatización de análisis de seguridad en aplicaciones web.  
+✅ Contribuciones en proyectos open-source relacionados con seguridad.  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manrique23&show_icons=true&theme=radical" height="150">
-</div>
+---
+
+## 🔥 Repositorios Destacados  
+🔹 [Mi proyecto estrella](https://github.com/Manrique23/mi-proyecto) - Descripción breve del repositorio.  
+🔹 [Herramienta de Pentesting](https://github.com/Manrique23/pentest-tool) - Un script útil para Blue Team.  
+🔹 [Dashboard Full Stack](https://github.com/Manrique23/fullstack-dashboard) - Proyecto con React, Next.js y PostgreSQL.  
 
 ---
 
 ## 🛠️ Herramientas que uso  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
