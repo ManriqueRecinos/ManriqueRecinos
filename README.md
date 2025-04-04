@@ -23,15 +23,15 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manrique23&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manrique23&layout=compact&theme=radical" height="150">
 </div>
 
 ---
 
-## 📈 Lenguajes más usados en mis repositorios  
+## 📊 Lenguajes más usados en mis repositorios  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manrique23&theme=radical" alt="GitHub Streak Stats">
 </p>
 
 ---
@@ -49,7 +49,8 @@
 ---
 
 ## 📫 Conéctate conmigo  
-🔗 [LinkedIn](#) | 🌎 [Portafolio](#) | ✉️ [Email](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/manrique-recinos-64b772314/)  
+✉️ manrique.recinos23@gmail.com  
 
 ---
 
