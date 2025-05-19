@@ -6,7 +6,6 @@
 
 ## 🚀 Sobre mí  
 🔹 **Full Stack Developer** con pasión por la ciberseguridad y el desarrollo escalable.  
-🔹 Especializado en **Pentesting Blue Team**, asegurando sistemas contra amenazas.  
 🔹 Apasionado por la programación backend y frontend, optimización de rendimiento y bases de datos.  
 🔹 Siempre explorando nuevas tecnologías y contribuyendo a la comunidad.  
 
