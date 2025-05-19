@@ -28,8 +28,7 @@
 ---
 
 ## 🔥 Repositorios Destacados  
-🔹 [Mi proyecto estrella](https://github.com/Manrique23/mi-proyecto) - Descripción breve del repositorio.  
-🔹 [Herramienta de Pentesting](https://github.com/Manrique23/pentest-tool) - Un script útil para Blue Team.  
+🔹 [Mi proyecto estrella](https://github.com/ManriqueRecinos/SuperMaintex) - Descripción breve del repositorio.  
 🔹 [Dashboard Full Stack](https://github.com/Manrique23/fullstack-dashboard) - Proyecto con React, Next.js y PostgreSQL.  
 
 ---
