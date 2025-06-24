@@ -27,8 +27,8 @@
 ---
 
 ## 🔥 Repositorios Destacados  
-🔹 [Mi proyecto estrella](https://github.com/ManriqueRecinos/SuperMaintex) - Descripción breve del repositorio.  
-🔹 [Dashboard Full Stack](https://github.com/Manrique23/fullstack-dashboard) - Proyecto con React, Next.js y PostgreSQL.  
+🔹 [Mi proyecto estrella](https://github.com/ManriqueRecinos/SuperMaintex) -  
+🔹 [Dashboard Full Stack](https://github.com/Manrique23/fullstack-dashboard) -  
 
 ---
 
