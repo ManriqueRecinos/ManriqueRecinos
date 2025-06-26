@@ -27,7 +27,7 @@
 ---
 
 ## 🔥 Repositorios Destacados  
-🔹 [Portafolio]((https://manrique-recinos-portfolio.vercel.app/))
+🔹 [Portafolio](https://manrique-recinos-portfolio.vercel.app/) -
 🔹 [Mi proyecto estrella](https://github.com/ManriqueRecinos/SuperMaintex) -  
 🔹 [Dashboard Full Stack](https://github.com/Manrique23/fullstack-dashboard) -  
 
