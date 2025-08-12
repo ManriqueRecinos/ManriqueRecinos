@@ -17,27 +17,22 @@
 
 ---
 
-## 🛠 Skills
+## Tech Stack
 
-### 🖥 Frontend  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,typescript,tailwindcss,jquery" />
-</p>
+<div align="center">
 
-### 🛠 Backend  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,python,nextjs" />
-</p>
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwindcss,jquery" alt="Frontend Skills" />
 
-### 🗄 Databases  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mysql" />
-</p>
+### Backend Development  
+<img src="https://skillicons.dev/icons?i=php,laravel,python,nextjs" alt="Backend Skills" />
 
-### 🧰 Tools & Platforms  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=kali,docker,windows,github,postman,vscode,discord,vercel" />
-</p>
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,github" alt="Database Skills" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,vercel,kali,windows" alt="Tools" />
+
+</div>
 
 ---
 
