@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0;">
-  <img src="https://raw.githubusercontent.com/ManriqueRecinos/animated-text-svg/main/animated-text.svg" alt="Animated Text SVG" style="width: 435px; max-width: 100%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=10B981&center=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
   <br />
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Funny Coding GIF" style="width: 100%; height: auto; display: block; margin-top: 16px;" />
 </p>
