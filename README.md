@@ -5,9 +5,6 @@
 </p>
 
 # Hi there, I'm Manrique Recinos 👋
-
-### Full Stack Developer
-
 > *"Why would I tell you my weaknesses?  
 > I work too much, I care too much, and sometimes I get too involved with my work."* – Me (but also kind of Michael Scott)
 
