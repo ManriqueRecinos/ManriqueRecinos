@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Engineer+specialized+in+Software+Development;Problem+Solver" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ManriqueRecinos/animated-text-svg/main/animated-text.svg" alt="Animated Text SVG" style="width: 435px; max-width: 100%;" />
   <br />
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Funny Coding GIF" style="width: 100%; height: auto; display: block; margin-top: 16px;" />
 </p>
@@ -62,8 +62,8 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=manriqueRecinos&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 380px; max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manriqueRecinos&layout=compact&theme=radical" alt="Top Languages" style="width: 320px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manriqueRecinos&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 360px; height: 160px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manriqueRecinos&layout=compact&theme=radical" alt="Top Languages" style="width: 360px; height: 160px; max-width: 100%;" />
 </p>
 
 ---
