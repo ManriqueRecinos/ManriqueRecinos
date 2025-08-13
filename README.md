@@ -1,7 +1,7 @@
 <p align="center" style="margin: 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=10B981&center=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
   <br />
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Funny Coding GIF" style="width: 100%; height: auto; display: block; margin-top: 16px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2YzZ2kwOHM3dnAzc2loYTlsZGx5bDRsM2VwaGoxNXo4ODBhcnlmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i79P9wUfnmPyo/giphy.gif" alt="Funny Coding GIF" style="width: 100vw; height: auto; display: block;" />
 </p>
 
 # Hi there, I'm Manrique Recinos 👋
