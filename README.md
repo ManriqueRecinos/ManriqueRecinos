@@ -32,7 +32,8 @@
 ### Database & Tools  
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,github" alt="Database Skills" />  
 <br />  
-<img src="https://skillicons.dev/icons?i=vscode,postman,vercel,kali,windows" alt="Tools" />
+<br />  
+<img src="https://skillicons.dev/icons?i=vscode,postman,vercel,kali,windows,aws" alt="Tools" />
 
 </div>
 
