@@ -53,7 +53,7 @@
 - <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="18" width="18" /> **Email:** [manrique.recinos23@gmail.com](mailto:manrique.recinos23@gmail.com)  
 - <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="18" width="18" /> **LinkedIn:** [linkedin.com/in/manrique-recinos](https://www.linkedin.com/in/manrique-recinos-64b772314/)  
 - <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="18" width="18" /> **Instagram:** [instagram.com/manrex_2002](https://www.instagram.com/manrex_2002)  
-- 🌐 **Portfolio:** [manrique-recinos-portfolio.vercel.app]([https://manrique-recinos-portfolio.vercel.app/](https://portfolio-eosin-eight-71.vercel.app/))
+- 🌐 **Portfolio:** ([https://manrique-recinos-portfolio.vercel.app/](https://portfolio-eosin-eight-71.vercel.app/))
 
 ---
 
