@@ -7,6 +7,7 @@
 # Hi there, I'm Manrique Recinos 👋
 > *"Why would I tell you my weaknesses?  
 > I work too much, I care too much, and sometimes I get too involved with my work."* – Me (but also kind of Michael Scott)
+> Now I'm learning more about Laravel😎
 
 ---
 
