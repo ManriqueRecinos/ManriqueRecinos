@@ -58,12 +58,3 @@
 - 🌐 **Portfolio:** [https://manrique-recinos-portfolio.vercel.app/](https://portfolio-eosin-eight-71.vercel.app/)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=manriqueRecinos&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 360px; height: 160px; max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manriqueRecinos&layout=compact&theme=radical" alt="Top Languages" style="width: 360px; height: 160px; max-width: 100%;" />
-</p>
-
----
