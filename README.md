@@ -76,8 +76,10 @@ A robust inventory and operational management system designed specifically for *
 
 ## 📫 Contact Me
 
-- <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="18" width="18" /> **Email:** [manrique.recinos23@gmail.com](mailto:manrique.recinos23@gmail.com)
-- <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="18" width="18" /> **LinkedIn:** [linkedin.com/in/manrique-recinos](https://www.linkedin.com/in/manrique-recinos-64b772314/)
-- <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="18" width="18" /> **Instagram:** [instagram.com/manrex_2002](https://www.instagram.com/manrex_2002)
-- 🌐 **Portfolio:** [manrique-recinos-portfolio.vercel.app](https://portfolio-eosin-eight-71.vercel.app/)
-- 💻 **GitHub:** [github.com/ManriqueRecinos](https://github.com/ManriqueRecinos)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="25" /> &nbsp; <b>Email:</b> <a href="mailto:manrique.recinos23@gmail.com">manrique.recinos23@gmail.com</a> <br/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="25" /> &nbsp; <b>LinkedIn:</b> <a href="https://linkedin.com/in/manrique-recinos-64b772314/">linkedin.com/in/manrique-recinos</a> <br/>
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="25" /> &nbsp; <b>Instagram:</b> <a href="https://www.instagram.com/manrex_2002">@manrex_2002</a> <br/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="25" /> &nbsp; <b>Portfolio:</b> <a href="https://portfolio-eosin-eight-71.vercel.app/">manrique-recinos-portfolio.vercel.app</a> <br/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="25" /> &nbsp; <b>GitHub:</b> <a href="https://github.com/ManriqueRecinos">github.com/ManriqueRecinos</a>
+</p>
