@@ -60,9 +60,6 @@ Refactored a **Python** service that tracks module usage across Supertex's main 
 ### 📦 Saas Inventory (My Startup)
 A robust inventory and operational management system designed specifically for **MYPES**. Built with **Laravel**, **PostgreSQL**, and a custom SPA engine to provide a premium experience to small business owners.
 
-### 🛒 [Tienda-Claudia](https://github.com/ManriqueRecinos/Tienda-Claudia)
-E-commerce project built with **PHP** and **TailwindCSS**.
-
 ---
 
 ## 📊 GitHub Stats
