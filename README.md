@@ -13,7 +13,7 @@
 
 ---
 
-## 👨💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 **Engineer specialized in Software Development** – ITCA FEPADE, Class of 2025
 - 💼 Currently working at **Supertex SV** as a **Full Stack Developer** *(Feb 2025 – Present)*
@@ -29,7 +29,7 @@
 <div align="center">
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwindcss,jquery" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,jquery" alt="Frontend Skills" />
 
 ### Backend Development
 <img src="https://skillicons.dev/icons?i=php,laravel,python,nextjs,fastapi" alt="Backend Skills" />
@@ -57,7 +57,7 @@ Mobile app in **React Native (Expo)** backed by **PostgreSQL via Supabase**. Sca
 ### 🐍 Python Services Optimization *(Supertex)*
 Refactored a **Python** service that tracks module usage across Supertex's main application. Added new API endpoints, automated backups, and validated everything with **Postman**.
 
-### 📦 Saas Inventory (My Startup)
+### 📦 SaaS Inventory (My Startup)
 A robust inventory and operational management system designed specifically for **MYPES**. Built with **Laravel**, **PostgreSQL**, and a custom SPA engine to provide a premium experience to small business owners.
 
 ---
@@ -80,6 +80,6 @@ A robust inventory and operational management system designed specifically for *
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="25" /> &nbsp; <b>Email:</b> <a href="mailto:manrique.recinos23@gmail.com">manrique.recinos23@gmail.com</a> <br/>
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="25" /> &nbsp; <b>LinkedIn:</b> <a href="https://linkedin.com/in/manrique-recinos-64b772314/">linkedin.com/in/manrique-recinos</a> <br/>
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="25" /> &nbsp; <b>Instagram:</b> <a href="https://www.instagram.com/manrex_2002">@manrex_2002</a> <br/>
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="25" /> &nbsp; <b>Portfolio:</b> <a href="https://portfolio-eosin-eight-71.vercel.app/">manrique-recinos-portfolio.vercel.app</a> <br/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="25" /> &nbsp; <b>Portfolio:</b> <a href="https://portfolio-production-ef6a.up.railway.app/">portfolio-production-ef6a.up.railway.app</a> <br/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="25" /> &nbsp; <b>GitHub:</b> <a href="https://github.com/ManriqueRecinos">github.com/ManriqueRecinos</a>
 </p>
